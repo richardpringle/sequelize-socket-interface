@@ -1,0 +1,1 @@
+# squelize-socket-interface
