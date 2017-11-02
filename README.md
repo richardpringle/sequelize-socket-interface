@@ -3,6 +3,8 @@
 ### example
 
 ```node
+const router = require('express').Router();
+
 const Client = require('sequelize-socket-interface');
 
 router.get('/students/{student_id}/parents/', function(req, res) {
